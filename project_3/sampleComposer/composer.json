@@ -1,0 +1,21 @@
+{
+    "name": "zavvari/sample-composer",
+    "description": "text some ...",
+    "type": "library",
+    "require": {
+        "hekmatinasser/verta": "dev-master"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "digikala\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AmirMohammadZavvari",
+            "email": "amiraliphic@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
